@@ -1,0 +1,3 @@
+{"timestamp":"2025-01-01T10:00:00Z","state":"RUN","kw":5.2,"kwh_total":120.5,"pf":0.86,"count_total":100,"ir":10.1,"iy":9.8,"ib":10.3,"vr":230,"vy":231,"vb":229,"alarm_code":null}
+{"timestamp":"2025-01-01T10:00:01Z","state":"RUN","kw":5.4,"kwh_total":120.5,"pf":0.87,"count_total":101,"ir":10.2,"iy":9.9,"ib":10.4,"vr":230,"vy":231,"vb":229,"alarm_code":null}
+...
